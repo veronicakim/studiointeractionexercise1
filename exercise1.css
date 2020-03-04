@@ -1,0 +1,33 @@
+@font-face {
+  font-family: "Bureau Grot";
+  src: url("Bureau Grot Book.otf");
+}
+
+body {
+	font-size: 17px;
+	margin: 100px;
+
+	font-family: "Bureau Grot", serif
+}
+
+h1 {
+	font-size: 3em;
+}
+
+h2 {
+	font-size: 2em;
+}
+
+h3 {
+	font-size: 1em;
+/*	margin-left: 20px;*/
+}
+
+p {
+	font-size: 1em;
+/*	margin-left: 20px;*/
+}
+
+ol {
+	margin-left: 50px;
+}
